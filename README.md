@@ -1,5 +1,6 @@
 # IP-Adapter-for-Weed-Detection
-This is the official repo for the paper "Image Prompt Adapter-Based Stable Diffusion for Enhanced Multi-Class Weed Generation and Detection"
+This is the official repo for the paper "Image Prompt Adapter-Based Stable Diffusion for Enhanced Multi-Class Weed Generation and Detection".
+The weed dataset used in this study is publicly available at https://doi.org/10.5281/zenodo.14861516, comprising a total of 8436 images and 27,963 annotated instances across 10 weed classes.
 
 ## Citation
 Please consider cite our work if you find this repo is helpful.
